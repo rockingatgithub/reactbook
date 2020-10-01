@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactbook/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/reactbook/static/js/main.934f2140.chunk.js",
-    "main.js.map": "/reactbook/static/js/main.934f2140.chunk.js.map",
+    "main.js": "/reactbook/static/js/main.ef2d8e5e.chunk.js",
+    "main.js.map": "/reactbook/static/js/main.ef2d8e5e.chunk.js.map",
     "runtime-main.js": "/reactbook/static/js/runtime-main.398b7292.js",
     "runtime-main.js.map": "/reactbook/static/js/runtime-main.398b7292.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/reactbook/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.bccbd060.chunk.js": "/reactbook/static/js/2.bccbd060.chunk.js",
     "static/js/2.bccbd060.chunk.js.map": "/reactbook/static/js/2.bccbd060.chunk.js.map",
     "index.html": "/reactbook/index.html",
-    "precache-manifest.2d26f66b1681e7c6483c555d58599ad0.js": "/reactbook/precache-manifest.2d26f66b1681e7c6483c555d58599ad0.js",
+    "precache-manifest.34493e81d4a58eda1778878fc1fb8cfe.js": "/reactbook/precache-manifest.34493e81d4a58eda1778878fc1fb8cfe.js",
     "service-worker.js": "/reactbook/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/reactbook/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/reactbook/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.bccbd060.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.934f2140.chunk.js"
+    "static/js/main.ef2d8e5e.chunk.js"
   ]
 }
