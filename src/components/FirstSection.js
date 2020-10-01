@@ -5,7 +5,7 @@ function FirstSection(props) {
   return (
     <Row style={{ marginTop: "20px" }}>
       <Col>
-        <Jumbotron>
+        <Jumbotron style={{ backgroundColor: "#ffffff" }}>
           <h1>Free, Modern Desktop Accounting </h1>
           <p>
             Simple, well designed, desktop accounting software for freelancers

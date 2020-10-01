@@ -5,7 +5,10 @@ function SeventhSection(props) {
   return (
     <Row style={{ marginTop: "40px" }}>
       <Col>
-        <Card className="text-center">
+        <Card
+          className="text-center"
+          style={{ backgroundColor: "#ecf5fe", height: "270px" }}
+        >
           <Card.Body>
             <h3>Free Desktop Accounting Software for Small Businesses</h3>
             <Card.Text>

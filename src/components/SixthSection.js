@@ -7,9 +7,9 @@ function SixthSection(props) {
       <Row style={{ marginTop: "40px" }}>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Journel Enteries</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Record ad-hoc accounting entries for entering expenses, opening
                 entires, and bank payments.
               </Card.Text>
@@ -18,9 +18,9 @@ function SixthSection(props) {
         </Col>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Invoice Templates</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Beautiful Invoice templates that you can further customize with
                 the color and logo of your brand.
               </Card.Text>
@@ -29,9 +29,9 @@ function SixthSection(props) {
         </Col>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Works Offline</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Frappe Books uses a local file from your computer and when you
                 create invoices, it saves them on your local machine.
               </Card.Text>
@@ -40,9 +40,9 @@ function SixthSection(props) {
         </Col>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Open Source</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Frappe Books is free and open-source software. Help us improve
                 it by reporting issues or fixing them on GitHub.
               </Card.Text>
@@ -53,9 +53,9 @@ function SixthSection(props) {
       <Row style={{ marginTop: "40px" }}>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Privacy by Default</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Frappe Books data is never uploaded to a cloud, which means you
                 never compromise your ownership and privacy.
               </Card.Text>
@@ -64,9 +64,9 @@ function SixthSection(props) {
         </Col>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Portable</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Frappe Books uses the lightweight SQLite database which uses
                 simple files to store their data.
               </Card.Text>
@@ -75,9 +75,9 @@ function SixthSection(props) {
         </Col>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Financial Reports</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Frappe Books comes with standard financial reports like Profit
                 and Loss Statement, Trial Balance and Balance Sheet.
               </Card.Text>
@@ -86,9 +86,9 @@ function SixthSection(props) {
         </Col>
         <Col>
           <Card style={{ width: "12rem" }}>
-            <Card.Body>
+            <Card.Body style={{ height: "200px" }}>
               <Card.Title>Multi-currency</Card.Title>
-              <Card.Text>
+              <Card.Text style={{ fontSize: "14px" }}>
                 Record your invoices in your customer’s currency and Frappe
                 Books will convert them in your currency.
               </Card.Text>
